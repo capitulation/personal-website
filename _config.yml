@@ -17,12 +17,13 @@ defaults:
       layout: "post"
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Machine Learning
+    web_url: https://github.com/topics/machine-learning
+    image_url: https://static.thenounproject.com/png/1870030-200.png
 
-  - name: Web design
+  - name: Blockchain
+    web_url: https://github.com/topics/blockchain
+    image_url: https://cdn.iconscout.com/icon/free/png-256/blockchain-2-411041.png
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Quantum Computing
+    image_url: http://www.stellartradingsystems.com/wp-content/uploads/2015/04/quantum.png
